@@ -1,2 +1,2 @@
 # myFirstRepo
-My first repository for learning Git and GitHub &lt;3
+My first repository for learning Git and GitHub hope you are doing well &lt;3
